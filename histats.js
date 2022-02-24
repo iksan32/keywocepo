@@ -1,5 +1,5 @@
 //---- histats ----
-// Cukup ganti 4403915 dengan ID Histats kamu ---
+// Cukup ganti 4634511 dengan ID Histats kamu ---
 (function () {
   injectScript(
     [
